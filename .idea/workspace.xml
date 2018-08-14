@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94027671-d3c1-4c75-87a4-1dd3c861c619" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/firstTask/ThirdTask/BeerSong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstTask/bredoGenerator/PhraseOMatic.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BeerSong.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BeerSong.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firstTask/ThirdTask/BeerSong.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
               <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhraseOMatic.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/firstTask/bredoGenerator/PhraseOMatic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -40,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/firstTask/ThirdTask/BeerSong.java" />
+        <option value="$PROJECT_DIR$/firstTask/bredoGenerator/PhraseOMatic.java" />
       </list>
     </option>
   </component>
@@ -76,6 +85,12 @@
               <item name="TestRepo" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestRepo" type="462c0819:PsiDirectoryNode" />
               <item name="firstTask" type="462c0819:PsiDirectoryNode" />
+              <item name="bredoGenerator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestRepo" type="462c0819:PsiDirectoryNode" />
+              <item name="firstTask" type="462c0819:PsiDirectoryNode" />
               <item name="ThirdTask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -98,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PhraseOMatic">
     <configuration name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThirdTask.BeerSong" />
       <module name="TestRepo" />
@@ -106,6 +121,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ThirdTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PhraseOMatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bredoGenerator.PhraseOMatic" />
+      <module name="TestRepo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bredoGenerator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,8 +177,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.BeerSong" />
+      <item itemvalue="Application.PhraseOMatic" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhraseOMatic" />
         <item itemvalue="Application.BeerSong" />
       </list>
     </recent_temporary>
@@ -181,10 +212,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24277908" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24277908" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -207,6 +238,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstTask/bredoGenerator/PhraseOMatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
         </state>
       </provider>
     </entry>
